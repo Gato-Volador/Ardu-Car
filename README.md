@@ -26,8 +26,8 @@
 - El móvil contará con dos ejes rotatorios para las ruedas, que serán movidos gracias a la acción de un pequeño motor que funcionará como respuesta al programa, ya sea aercándose o alejandose del objetivo.
 - También se contará con un servomotor que permitirá acomodar el sentido y la dirección del móvil, para mantener el color a seguir siempre al frente de la cámara.
 - En caso de que el aparato necesite buscar un color o el servomotor de la dirección no permite orientar la cámara hacia el color (ya sea porque hay un pared que impide al móvil orientarse bien o hay un espacio reducido), se agregará otro servomotor a la base de la cámara que le permitirá girar de forma paralela al suelo. 
-- Se estudia la posibilidad de agregar otro movimiento a la cámara: Vertical, para hallar color que estén sobre el móvil.
--Para evitar que el móvil choque con algún objeto, contará con sensores de profundidad.
+- Se estudia la posibilidad de agregar otro movimiento a la cámara: Vertical, para hallar colores que estén sobre el móvil.
+- Para evitar que el móvil choque con algún objeto, contará con sensores de profundidad.
 
 ##Requisitos:
 
